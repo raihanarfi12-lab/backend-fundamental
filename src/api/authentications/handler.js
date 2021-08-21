@@ -125,4 +125,5 @@ class AuthenticationsHandler {
     }
   }
 }
+
 module.exports = AuthenticationsHandler;
